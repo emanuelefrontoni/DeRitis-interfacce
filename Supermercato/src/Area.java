@@ -11,4 +11,6 @@ public interface Area {
 	public void VisualizzaProdotto();
 	
 	public boolean AcquistaOggetto(int posizione);
+	
+	//aaa
 }
